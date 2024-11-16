@@ -9,7 +9,7 @@ Database >> A database is a organized collection of stuructued data (or) informa
 Example:
 
 
-       Student-1                 Student-2 			  Student-3
+       Student-1                 Student-2 			     Student-3
        =========                 ============                     ===========
      RollNo :1121                 RollNo:2255                     RollNo:8989
      Name   :Mahesh               Name  :Suresh                   Name  : Rajesh
